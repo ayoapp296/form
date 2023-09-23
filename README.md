@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -33,6 +32,12 @@
         }
 
         /* Add additional styles as needed for your footer */
+        
+        /* Make the embedded iframe responsive */
+        iframe {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
@@ -40,7 +45,8 @@
         <h1>Family Cover KYC Form</h1>
     </header>
     
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" width="1500" height="3118" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <!-- Embedded Google Form with responsive sizing -->
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" frameborder="0" style="width: 100%; min-height: 100vh;"></iframe>
     
     <footer>
         <p>This is an interactive webapp footer.</p>
