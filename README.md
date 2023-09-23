@@ -40,7 +40,7 @@
         <h1>Family Cover KYC Form</h1>
     </header>
     
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" width="800" height="3118" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" width="1500" height="3118" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     
     <footer>
         <p>This is an interactive webapp footer.</p>
