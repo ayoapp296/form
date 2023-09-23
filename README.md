@@ -49,7 +49,7 @@
     
     <!-- Center the iframe both horizontally and vertically -->
     <div class="iframe-container">
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" frameborder="0" style="width: 100%; min-height: 100vh;"></iframe>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" frameborder="0" style="width: 200%; min-height: 100vh;"></iframe>
     </div>
     
     <footer>
