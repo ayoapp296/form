@@ -37,7 +37,7 @@
         
         /* Make the embedded iframe responsive */
         .iframe-container {
-            max-width: 100%;
+            max-width: 80%; /* Increase the width as needed */
             height: auto;
         }
     </style>
