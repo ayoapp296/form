@@ -11,6 +11,8 @@
             display: flex;
             flex-direction: column;
             min-height: 100vh;
+            justify-content: center; /* Center content vertically */
+            align-items: center; /* Center content horizontally */
         }
 
         header {
@@ -34,7 +36,7 @@
         /* Add additional styles as needed for your footer */
         
         /* Make the embedded iframe responsive */
-        iframe {
+        .iframe-container {
             max-width: 100%;
             height: auto;
         }
@@ -45,8 +47,10 @@
         <h1>Family Cover KYC Form</h1>
     </header>
     
-    <!-- Embedded Google Form with responsive sizing -->
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" frameborder="0" style="width: 100%; min-height: 100vh;"></iframe>
+    <!-- Center the iframe both horizontally and vertically -->
+    <div class="iframe-container">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" frameborder="0" style="width: 100%; min-height: 100vh;"></iframe>
+    </div>
     
     <footer>
         <p>This is an interactive webapp footer.</p>
