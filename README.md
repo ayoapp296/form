@@ -35,9 +35,7 @@
     <header>
         <h1>Family Cover KYC Form</h1>
     </header>
-    
-    <!-- Body content can be added here, but it's left empty in this example -->
-    
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc158vH56Ud8NvO4c2wSNg16kg91XWnRlif3EIVBmD9gmr44A/viewform?embedded=true" width="640" height="3118" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     <footer>
         <p>This is an interactive webapp footer.</p>
     </footer>
