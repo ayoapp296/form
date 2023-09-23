@@ -53,7 +53,7 @@
     </div>
     
     <footer>
-        <p>This is an interactive webapp footer.</p>
+        <p>This is an aYo interactive webapp.</p>
     </footer>
 </body>
 </html>
