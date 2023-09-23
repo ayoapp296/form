@@ -23,6 +23,10 @@
             padding: 10px 0;
         }
 
+        h1 {
+            font-size: 28px; /* Adjust the font size as needed */
+        }
+
         footer {
             text-align: center;
             background-color: #333;
